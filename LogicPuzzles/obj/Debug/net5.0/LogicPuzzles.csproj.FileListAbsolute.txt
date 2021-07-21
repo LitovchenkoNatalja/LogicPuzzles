@@ -1,0 +1,16 @@
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\bin\Debug\net5.0\LogicPuzzles.exe
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\bin\Debug\net5.0\LogicPuzzles.deps.json
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\bin\Debug\net5.0\LogicPuzzles.runtimeconfig.json
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\bin\Debug\net5.0\LogicPuzzles.runtimeconfig.dev.json
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\bin\Debug\net5.0\LogicPuzzles.dll
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\bin\Debug\net5.0\ref\LogicPuzzles.dll
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\bin\Debug\net5.0\LogicPuzzles.pdb
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\obj\Debug\net5.0\LogicPuzzles.csprojAssemblyReference.cache
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\obj\Debug\net5.0\LogicPuzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\obj\Debug\net5.0\LogicPuzzles.AssemblyInfoInputs.cache
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\obj\Debug\net5.0\LogicPuzzles.AssemblyInfo.cs
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\obj\Debug\net5.0\LogicPuzzles.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\obj\Debug\net5.0\LogicPuzzles.dll
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\obj\Debug\net5.0\ref\LogicPuzzles.dll
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\obj\Debug\net5.0\LogicPuzzles.pdb
+C:\Users\Natalia\source\repos\LogicPuzzles\LogicPuzzles\obj\Debug\net5.0\LogicPuzzles.genruntimeconfig.cache
